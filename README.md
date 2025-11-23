@@ -49,5 +49,9 @@ Admins: Access and manage all tasks
 
 
 ## Screenshot
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/d8544dce-928f-4053-8762-94b2166c15c8" />
 
+<img width="1917" height="999" alt="image" src="https://github.com/user-attachments/assets/230f269c-42f1-49bc-b01f-e70e03a9e9de" />
+
+<img width="1926" height="981" alt="image" src="https://github.com/user-attachments/assets/c72f8baf-1bee-4ec5-b182-78e3934d599f" />
   
