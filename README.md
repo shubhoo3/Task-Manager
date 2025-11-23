@@ -1,54 +1,53 @@
-Task Manager with Role-Based Access (React + Node.js + SQLite)
+# Task Manager RBAC – Role-Based 
 
-A full-stack Task Management System with authentication, authorization, and CRUD operations.
-This project uses:
-
-Frontend: React (Vite)
-
-Backend: Node.js + Express
-
-Database: SQLite (zero setup)
-
-Authentication: JWT + bcrypt
-
-RBAC: Admin & User roles
+A full-stack, secure, and responsive Task Management System built with modern technologies.
+It supports user authentication, role-based access (RBAC), and powerful task operations with a clean UI
+## 🚀 Features
 
 🚀 Features
-👤 User Management
 
-Register & Login
+🔐 Secure Authentication – JWT-based login & registration with hashed passwords.
 
-Password hashing using bcryptjs
+🧑‍💼 Role-Based Access Control (RBAC) –
 
-JWT authentication stored in localStorage
+Users: Manage only their own tasks
 
-Users can only manage their own tasks
+Admins: Access and manage all tasks
 
-🛡 Role-Based Access Control
+📝 Task Management – Create, update, delete, and track tasks with statuses.
 
-Normal Users
+📁 SQLite Database – Lightweight, fast, and requires no installation.
 
-Create / Edit / Delete their own tasks
+⚛️ React Frontend – Smooth UI, protected routes, responsive design.
 
-View only their own tasks
+🔄 REST APIs – Clean and scalable Express.js API structure.
 
-Admin Users
+📱 Fully Responsive – Optimized for mobile, tablet, and desktop.
 
-View all tasks
 
-Delete any task
 
-📝 Task Management
 
-Title, description, status (Pending / In-progress / Done)
+## 🛠️ Tech Stack
 
-Fully responsive UI
+| Category       | Technology                     |
+|----------------|-------------------------------|
+| Frontend       | React.js                       |
+| Backend        | Node.js, Express.js            |
+| Database       | SQLITE                         |
 
-Clean and simple UX
 
-Create .env File
 
-Create a .env inside the backend folder:
+ 
 
-JWT_SECRET=your_super_secret_key
-PORT=5000
+- **env Setup:**
+
+  JWT_SECRET=your_secret_key_here
+  
+  PORT=5000
+
+
+
+
+## Screenshot
+
+  
